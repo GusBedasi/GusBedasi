@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Full-Stack Development :NodeJS, ReactJS, Python and shell scripting:	
 -  **Languages :** Python e JavaScript
 -  **Hobbies :** Pentest, development, Competitive programming and chess
 -  **Fact :** Love to learn about development and hacking 
