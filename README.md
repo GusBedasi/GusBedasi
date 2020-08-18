@@ -3,11 +3,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :NodeJS, ReactJS; Scripting and hacking: Python and shell scripting	
+-  **Learning :** Full-Stack Development :NodeJS, ReactJS; Python and shell scripting	
 -  **Languages :** Python e JavaScript
--  **Hobbies :** Pentest, development, Competitive programming and chess
--  **Fact :** Love to learn about development and hacking 
--  **Organization :** 76 Telecom
+-  **Hobbies :** Competitive programming and chess
+-  **Fact :** Love to learn about development 
+-  **Organization :** Studyng
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
