@@ -3,9 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :NodeJS, ReactJS; Python and shell scripting	
+-  **Learning :** NodeJS, ReactJS, Typescript, MongoDB, Postgres and docker
 -  **Languages :** Python e JavaScript
--  **Hobbies :** Competitive programming and chess
+-  **Hobbies :** League of legends and chess
 -  **Fact :** Love to learn about development 
 -  **Organization :** Studyng
 
