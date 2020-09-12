@@ -3,8 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** NodeJS, ReactJS, Typescript, MongoDB, Postgres and docker
--  **Languages :** Python e JavaScript
+-  **Learning :** NodeJS, ReactJS e Typescript
 -  **Hobbies :** League of legends and chess
 -  **Fact :** Love to learn about development 
 -  **Organization :** Studyng
