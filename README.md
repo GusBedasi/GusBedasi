@@ -5,6 +5,7 @@
 
 -  **Learning :** NodeJS, ReactJS e Typescript
 -  **Hobbies :** League of legends and chess
+-  **Known languages :** Python and Javascript
 -  **Fact :** Love to learn about development 
 -  **Organization :** Studyng
 
