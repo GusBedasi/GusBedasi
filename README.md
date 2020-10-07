@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** NodeJS, ReactJS e Typescript
+-  **Learning :** NodeJS, ReactJS (both with Typescript) and tests with Jest
 -  **Hobbies :** League of legends and chess
 -  **Known languages :** Python and Javascript
 -  **Fact :** Love to learn about development 
