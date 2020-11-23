@@ -6,11 +6,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** NodeJS, ReactJS (both with Typescript) and tests with Jest
+-  **Learning :** NodeJS, Typescript and ReactJS
 -  **Hobbies :** League of legends and chess
--  **Known languages :** Python and Javascript
+-  **Known languages :** Python and Javascript(NodeJs and client's side)
 -  **Fact :** Love to learn about development 
--  **Organization :** Studyng
+-  **Organization :** Stone
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
