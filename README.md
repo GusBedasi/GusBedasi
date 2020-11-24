@@ -10,7 +10,7 @@
 -  **Hobbies :** League of legends and chess
 -  **Known languages :** Python and Javascript(Server side and client's side)
 -  **Fact :** Love to learn about development 
--  **Organization :** Stone
+-  **Organization :** Groove Tech | Stone Pagamentos
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
