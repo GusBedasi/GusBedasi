@@ -8,7 +8,7 @@
 
 -  **Learning :** NodeJS, Typescript and ReactJS
 -  **Hobbies :** League of legends and chess
--  **Known languages :** Python and Javascript(Server side and client's side)
+-  **Known languages :** NodeJS
 -  **Fact :** Love to learn about development 
 -  **Organization :** Groove Tech | Stone Pagamentos
 
