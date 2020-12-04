@@ -6,9 +6,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** NodeJS, Typescript and ReactJS
--  **Hobbies :** League of legends and chess
--  **Known languages :** NodeJS
+-  **Learning :** NodeJS and C++
+-  **Hobbies :** competitive programming and chess
+-  **Known languages :** NodeJS, Typescript and ReactJS
 -  **Fact :** Love to learn about development 
 -  **Organization :** Groove Tech | Stone Pagamentos
 
