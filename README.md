@@ -6,11 +6,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** NodeJS and C++
--  **Hobbies :** competitive programming and chess
--  **Known languages :** NodeJS, Typescript and ReactJS
--  **Fact :** Love to learn about development 
--  **Organization :** Groove Tech | Stone Pagamentos
+-  **Learning :** C# and .NET framework
+-  **Hobbies :** Chess and League of Legends
+-  **Knowledge :** NodeJS, NestJS, Typescript, ReactJS and C++
+-  **Fact :** Always improbing 
+-  **Organization :** Mundipagg | Stone Pagamentos
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
