@@ -2,7 +2,7 @@
   
   ![alt text](https://github.com/GusBedasi/assets/blob/main/banner-rocket-seat.jpeg?raw=true)
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Bedasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gustavobedasi//)](https://www.linkedin.com/in/gustavobedasi/) [![Gmail Badge](https://img.shields.io/badge/-ggustavobedasi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggustavobedasi@gmail.com)](mailto:ggustavobedasi@gmail.com) [![Site](https://www.gustavobedasi.com.br)
+  [![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Bedasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gustavobedasi//)](https://www.linkedin.com/in/gustavobedasi/) [![Gmail Badge](https://img.shields.io/badge/-ggustavobedasi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggustavobedasi@gmail.com)](mailto:ggustavobedasi@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
