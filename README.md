@@ -7,7 +7,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-**Job**: Currently working at StoneCo as .NET developer.
+**Job**: Junior Software Engineer.
 <br/>
 **Studying**:  Building side projects, like there isn't tomorrow, trying to make all of then with unit test and following SOLID principles.
 <br/>
