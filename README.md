@@ -7,11 +7,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-**Job**: Intermidiate Software Engineer.
+**Job**: Software Engineer.
 <br/>
-**Studying**:  Building side projects, like there isn't tomorrow, trying to make all of then with unit test and following SOLID principles.
-<br/>
-**Goal**: Become a better developer everyday.
+**Goal**: Going to bed better than I woke up this morning, consistency is key.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
