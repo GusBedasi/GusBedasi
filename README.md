@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with 4 years of
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusBedasi&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[LinkedIn](#https://www.linkedin.com/in/gustavobeserrademelo/)
+[LinkedIn](https://www.linkedin.com/in/gustavobeserrademelo/)
 
 ---
 
