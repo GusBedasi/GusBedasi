@@ -1,19 +1,28 @@
-### Hello there, i'm <a href="gustavobedasi.com.br/about">Gustavo Bedasi</a>
-  
-  ![alt text](https://github.com/GusBedasi/assets/blob/main/banner-rocket-seat.jpeg?raw=true)
-  
-  [![Website Badge](https://img.shields.io/badge/-gustavobedasi.com-yellow?style=flat&logo=Google-Chrome&logoColor=white)](https://www.gustavobedasi.com.br/about)
-  [![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Bedasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gustavobedasi//)](https://www.linkedin.com/in/gustavobedasi/) [![Gmail Badge](https://img.shields.io/badge/-ggustavobedasi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggustavobedasi@gmail.com)](mailto:ggustavobedasi@gmail.com)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+# Hi there, I'm Gus Bedasi! 👋
 
-**Job**: Software Engineer.
-<br/>
-**Goal**: Going to bed better than I woke up this morning, consistency is key.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with 4 years of experience, currently working at **StoneCo**. I have had the opportunity to work at amazing companies like **MercadoLibre** and **StoneCo**, where I've developed a wide range of skills and contributed to impactful projects.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 About Me
+- 🌟 I'm a detail-oriented Software Engineer with a strong focus on delivering robust and scalable solutions.
+- 💻 Experienced in designing and building software for high-scale environments.
+- 🌱 I’m currently learning and exploring cutting-edge technologies to stay ahead in the ever-evolving tech industry.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 💬 Ask me about software engineering, backend development, and system design.
+- ⚡ Fun fact: I enjoy exploring new cultures and cuisines through travel!
 
-![github stats](https://github-readme-stats.vercel.app/api?username=GusBedasi&show_icons=true)
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GusBedasi&layout=compact)
+## 🛠️ Technologies & Tools
+- **Programming Languages**: [Insert your known programming languages]
+- **Frameworks & Libraries**: [Insert frameworks and libraries you use]
+- **Tools & Platforms**: [Insert tools and platforms you're familiar with]
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GusBedasi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusBedasi&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+[LinkedIn](#https://www.linkedin.com/in/gustavobeserrademelo/)
+
+---
+
+⭐️ From [GusBedasi](https://github.com/GusBedasi)
