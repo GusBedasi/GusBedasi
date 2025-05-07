@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with 4 years of
 - ⚡ Fun fact: I enjoy exploring new cultures and cuisines through travel!
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: [Insert your known programming languages]
-- **Frameworks & Libraries**: [Insert frameworks and libraries you use]
-- **Tools & Platforms**: [Insert tools and platforms you're familiar with]
+- **Programming Languages**: [C#, Go, Kotlin]
+- **Frameworks & Libraries**: [.NET]
+- **Tools & Platforms**: [SQL, RabbitMq, Mongo]
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GusBedasi&show_icons=true&theme=radical)
